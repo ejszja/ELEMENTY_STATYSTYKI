@@ -24,7 +24,7 @@ else:
     for b in user:
         if b in final and b != final[user.index(b)] and final.count(b)>=1:
             bull=bull+1
-print("You've got %s cows and %s bulls" % (cow, bul))
+print("You've got %s cows and %s bulls" % (cow, ból))
 
     
             
